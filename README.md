@@ -1,34 +1,65 @@
-# 👋 ¡Hola! Soy Allan Mendoza Rivas
+# 👋 ¡Hola! Soy **Allan Mendoza Rivas**
 
-💻 **Estudiante apasionado por la tecnología**  
-🎯 Enfocado en desarrollo web y sistemas
-
----
-
-## 🧾 Sobre mí
-Estudiante de ingeniería en sistemas. Me interesa el desarrollo de aplicaciones web, bases de datos y automatización. Busco proyectos prácticos para aprender y aportar valor.
+💻 *Desarrollador Web en formación*  
+🎓 Estudiante apasionado por la tecnología y el aprendizaje continuo.  
+🚀 Enfocado en el desarrollo de sistemas web, backend y automatización.
 
 ---
 
-## 🛠 Habilidades
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** Node.js (básico), Strapi, MySQL  
-- **Herramientas:** Git, GitHub, VS Code  
-- **Soft skills:** Trabajo en equipo, comunicación, aprendizaje rápido
+## 🧠 Sobre mí
+Soy estudiante de ingeniería en sistemas con interés en el desarrollo de aplicaciones web y gestión de bases de datos.  
+Me gusta crear proyectos funcionales y aprender nuevas herramientas que me ayuden a mejorar como programador.
 
 ---
 
-## 💼 Proyectos destacados
-- **Sistema de Inventario "La Vid"** — `github.com/AllanMendoza/la-vid`  
-  Sistema web para gestionar productos, ventas e inventario de una botánica.
-- **Portafolio personal** — `allan.github.io/portafolio` *(en construcción)*
+## 🛠️ Habilidades Técnicas
+| Categoría | Tecnologías |
+|------------|--------------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Strapi, NestJS |
+| **Base de datos** | MySQL |
+| **Herramientas** | Git, GitHub, VS Code |
+| **Otros** | Diseño responsivo, trabajo en equipo, aprendizaje rápido |
+
+---
+
+## 💼 Proyectos Destacados
+
+### 🌿 Sistema de Inventario *“La Vid”*
+Aplicación web para la gestión de productos, ventas e inventario en una botánica natural.  
+
+### ⚙️ API con Strapi
+Desarrollo de una API para el manejo de productos y usuarios, conectada con base de datos MySQL.  
+
+
+---
+
+## 📚 En Aprendizaje
+- NestJS (framework backend moderno)
+- Strapi (CMS headless para APIs)
+- JavaScript avanzado
+- Diseño de interfaces modernas
 
 ---
 
 ## 📫 Contacto
-- ✉️ allan.mendoza@gmail.com.com  
-- 🔗 [https://github.com/allanrivas97]
+- ✉️ **allanrivas97@gmail.com**  
+- 🌐 [github.com/allanrivas97](https://github.com/allanrivas97)
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/AllanMendoza?style=social)
+
+---
+
+> “El aprendizaje constante es el motor del crecimiento profesional.” 🌱
+
+  </main>
+
+  <footer>
+    <p>© 2025 Allan Mendoza Rivas | Desarrollador Web en formación</p>
+  </footer>
+
+</body>
+</html>
+
+
