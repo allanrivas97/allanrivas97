@@ -27,7 +27,7 @@ Estudiante de ingeniería en sistemas. Me interesa el desarrollo de aplicaciones
 
 ## 📫 Contacto
 - ✉️ allan.mendoza@gmail.com.com  
-- 🔗 https://github.com/AllanMendoza
+- 🔗 [https://github.com/allanrivas97]
 
 ---
 
